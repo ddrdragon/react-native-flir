@@ -42,7 +42,6 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/isaiahgrey93/react-native-flir",
   "author": "Isaiah Grey <isaiahgrey@gmail.com> (https://github.com/isaiahgrey93)",
   "license": "MIT",
   "bugs": {
